@@ -1,5 +1,15 @@
 # Recipes REST API Service
 
+A spring boot REST web service that allows the basic CRUD operations as well as searching by title or category.
+Added Authentication and Authorization via the Spring Security framework.
+
+Graduade project at the JetBrains Academy Java Backend Engineering Course.
+
+
+
+
+
+
 ## Recipes
 
 #### Get a single recipe by Id
